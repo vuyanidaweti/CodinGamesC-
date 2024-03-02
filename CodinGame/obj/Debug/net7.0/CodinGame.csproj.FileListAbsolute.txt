@@ -1,0 +1,15 @@
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\bin\Debug\net7.0\CodinGame.exe
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\bin\Debug\net7.0\CodinGame.deps.json
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\bin\Debug\net7.0\CodinGame.runtimeconfig.json
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\bin\Debug\net7.0\CodinGame.dll
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\bin\Debug\net7.0\CodinGame.pdb
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.csproj.AssemblyReference.cache
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.AssemblyInfoInputs.cache
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.AssemblyInfo.cs
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.csproj.CoreCompileInputs.cache
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.dll
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\refint\CodinGame.dll
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.pdb
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\CodinGame.genruntimeconfig.cache
+C:\Users\VuyaniDaweti\RiderFolder\CodinGame\CodinGame\obj\Debug\net7.0\ref\CodinGame.dll
